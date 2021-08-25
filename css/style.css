@@ -36,6 +36,9 @@ html, body{
     text-shadow: 4px 4px 8px #3b3b3b;
 }
 
+.landing h1:hover{
+    color: rgb(136, 199, 127);
+}
 
 @media (max-width: 650px) {
 
