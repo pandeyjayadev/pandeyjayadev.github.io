@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pandeyj.dev
+Token: a8f2b711ccd748be11a95223b53e47457b8d8f13666e90a3f03895dc90608cb9
